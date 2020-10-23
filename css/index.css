@@ -1,0 +1,17 @@
+#main-text {
+    position: center;
+    text-align: justify;
+}
+
+#titulo {
+    text-align: center;
+    font-style: "sans";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main-div {
+    border: 100px;
+    margin: 100px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

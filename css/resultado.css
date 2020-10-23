@@ -1,0 +1,15 @@
+label {
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    height: 5px;
+}
+
+.pergunta {
+    font-style: normal;
+    text-align: justify;
+}
+
+.resposta {
+    text-align: justify;
+}

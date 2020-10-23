@@ -1,0 +1,11 @@
+#div-body {
+    margin: 10px;
+    border: 100px;
+    padding: 100px;
+    content: 100px;
+    text-align: justify;
+}
+
+#Enviar {
+    position: absolute;
+}
